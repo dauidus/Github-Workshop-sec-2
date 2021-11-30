@@ -6,7 +6,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #758ECD;
+		background-color: #547918;
 		margin: 0px;
 		padding: 0px;
 		font-family:'open Sans', Arial;
@@ -309,7 +309,7 @@
 	/*-------------------------------------------------------*/
 	.menu {
 	  height: 100px;
-	  background-color: #ededed;
+	  background-color: #bd1515;
 	  position: relative;
 	  width: 100%;
 	  margin: auto;
